@@ -1,0 +1,20 @@
+name: uiscale
+description: Develop consistent responsive UI layouts with Flutter across various devices ensuring adaptability to dynamic screen dimensions, padding and aspect ratios.
+version: 1.0.0
+
+repository: https://github.com/Yodart/uiscale
+
+environment:
+  sdk: '>=2.19.2 <3.0.0'
+  flutter: '>=1.17.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
